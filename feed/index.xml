@@ -1,3 +1,5 @@
+<br />
+<b>Warning</b>:  A non-numeric value encountered in <b>C:\xampp\htdocs\Wordpress\wordpress\wp-content\themes\Avada\includes\dynamic_css.php</b> on line <b>6753</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -8,7 +10,7 @@
 	>
 
 <channel>
-	<title>WeDigital</title>
+	<title>Avada App</title>
 	<atom:link href="https://oalramahy.github.io/Alramahy/feed/" rel="self" type="application/rss+xml" />
 	<link>https://oalramahy.github.io/Alramahy</link>
 	<description>aaaaaaaaaaaaaaaaaa</description>
