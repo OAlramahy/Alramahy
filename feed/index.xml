@@ -9,8 +9,8 @@
 
 <channel>
 	<title>WeDigital</title>
-	<atom:link href="/https://oalramahy.github.io/Alramahy/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://oalramahy.github.io/Alramahy</link>
+	<atom:link href="http:///https://oalramahy.github.io/Alramahy/feed/" rel="self" type="application/rss+xml" />
+	<link>http:///https://oalramahy.github.io/Alramahy</link>
 	<description>fgdfggfdgdfgdd</description>
 	<lastBuildDate>Sat, 07 Oct 2017 13:26:31 +0000</lastBuildDate>
 	<language>de-DE</language>
@@ -19,17 +19,17 @@
 	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>Hallo Welt!</title>
-		<link>/https://oalramahy.github.io/Alramahy/2017/10/07/hallo-welt/</link>
-		<comments>/https://oalramahy.github.io/Alramahy/2017/10/07/hallo-welt/#comments</comments>
+		<link>http:///https://oalramahy.github.io/Alramahy/2017/10/07/hallo-welt/</link>
+		<comments>http:///https://oalramahy.github.io/Alramahy/2017/10/07/hallo-welt/#comments</comments>
 		<pubDate>Sat, 07 Oct 2017 12:16:26 +0000</pubDate>
 		<dc:creator><![CDATA[Alramahy]]></dc:creator>
 				<category><![CDATA[Allgemein]]></category>
 
-		<guid isPermaLink="false">/https://oalramahy.github.io/Alramahy/?p=1</guid>
+		<guid isPermaLink="false">http:///https://oalramahy.github.io/Alramahy/?p=1</guid>
 		<description><![CDATA[Willkommen zur deutschen Version von WordPress. Dies ist der erste Beitrag. Du kannst ihn bearbeiten oder löschen. Und dann starte mit dem Schreiben!]]></description>
 				<content:encoded><![CDATA[<p>Willkommen zur deutschen Version von WordPress. Dies ist der erste Beitrag. Du kannst ihn bearbeiten oder löschen. Und dann starte mit dem Schreiben!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/https://oalramahy.github.io/Alramahy/2017/10/07/hallo-welt/feed/</wfw:commentRss>
+			<wfw:commentRss>http:///https://oalramahy.github.io/Alramahy/2017/10/07/hallo-welt/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
